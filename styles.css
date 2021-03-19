@@ -213,7 +213,7 @@ font-weight: 300;
 
  @media screen and (max-width: 375px) {
   body {
-    background-position: 0% 100%,30% 1%;
+    background-position: 0% 100%,30% 4%;
     background-size: 80% ,95%;
    }
    .quotes{
